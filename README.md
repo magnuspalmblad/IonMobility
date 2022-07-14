@@ -6,3 +6,6 @@ prediction of ion mobility (collisional cross section) of peptides through, for 
 ## Datasets
 
 ## Tutorials
+For a very simple (essentially non-ML) example see the following notebook:
+
+https://github.com/RobbinBouwmeester/CCS_tutorial
